@@ -1,0 +1,5 @@
+name: WorkingItemListener
+main: joren.workingitemlistener.WorkingItemListener
+version: 0.2
+description: Rewards players for voting
+commands:

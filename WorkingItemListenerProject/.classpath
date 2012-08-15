@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Lib/bukkit-1.2.5-R4.0.jar" sourcepath="/Bukkit/src"/>
+	<classpathentry kind="lib" path="/Lib/Votifier.jar"/>
+	<classpathentry kind="lib" path="/Lib/PermissionsEx.jar"/>
+	<classpathentry kind="lib" path="/Lib/Permissions.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
